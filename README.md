@@ -2,7 +2,7 @@
 
 ##### Your Task 😃:
 
-1. Create a varaible `grade` and give it a value between 1 and 100
+1. Create a variable `grade` and give it a value between 1 and 100
 2. Create an if statement that does the following
 
 - if grade is between `100` and `90` the if statement shall console log `You got an A grade`
